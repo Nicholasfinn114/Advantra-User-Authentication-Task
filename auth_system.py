@@ -1,8 +1,5 @@
 import re
 
-# Data Structure: Users must be stored in a dictionary
-# The keys of this dictionary are user IDs (integers).
-# The values are dictionaries containing user information.
 users = {}
 next_user_id = 1  # To assign unique IDs to new users
 
